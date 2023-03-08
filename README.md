@@ -15,3 +15,5 @@ stateDiagram-v2
 どっち-->trans
 trans-->trans
 ```
+
+Inspired from [@sheepla](https://github.com/sheepla)'s tweet
